@@ -4,6 +4,8 @@
 
 - <b>Social Media Prediction Metric App</b>
   - [Prediction App](https://github.com/nvdraper04/social_media_prediction_app)
+- <b>Social Media Prediction Metric App</b>
+  - [TikTok Analysis](https://github.com/nvdraper04/social_media_prediction_app)
 
 
 <h2> 🤳 Connect with me:</h2>
