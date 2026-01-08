@@ -8,7 +8,7 @@
   - [TikTok Analysis](https://github.com/nvdraper04/Social_media_analysis.git)
 - <b>Wine Quality Classification Project</b>
   - [Wine Classification](https://github.com/nvdraper04/Wine_quality_classification.git)
-  - <b>Credit Decison Tree Classification Project</b>
+- <b>Credit Decison Tree Classification Project</b>
   - [Credit Classification](https://github.com/nvdraper04/Decision_tree_classsification.git)
   
 
